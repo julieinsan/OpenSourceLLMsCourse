@@ -12,3 +12,4 @@ We learned about:
 * just respond with OK
 * Chain of thought: think step by step
 * Tree of Thoughts prompting: input -> multiple options (request response from different perspectives) -> build on top results
+* PIAT: give a role, maybe with example, structured prompt, shot prompting, chain of thought.
